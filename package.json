@@ -1,0 +1,17 @@
+{
+  "name": "proxy",
+  "version": "1.0.0",
+  "description": "Quick and dirty proxy for Sun online assets",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "proxy"
+  ],
+  "dependencies": {
+    "col": "0.1.0"
+  },
+  "author": "mattyod <mattyod@gmail.com> (http://www.mtod.co.uk/)",
+  "license": "MIT"
+}
