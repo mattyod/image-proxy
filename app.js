@@ -30,6 +30,8 @@ function server(req, res) {
 
       res.end(file);
     });
+  } else {
+    log.warn('Ignoring', req.url);
   }
 }
 
